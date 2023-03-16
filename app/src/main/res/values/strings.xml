@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Deadlock and Concurrency</string>
+    <string name="startButton">START</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="concurrency">Concurrency</string>
+    <string name="algorithms">Algorithms</string>
+    <string name="deadlock">Deadlock</string>
+</resources>
